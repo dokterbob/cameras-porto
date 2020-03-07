@@ -1,0 +1,2898 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6104297,
+     41.1432924
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6647823940,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.610420267797426,
+     41.14328652477411
+    ],
+    "ref_distance": 1.0,
+    "ref_id": "[-8.610420267797426, 41.14328652477411]",
+    "tags.camera:mount": "pole",
+    "tags.camera:type": "dome",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags.surveillance:zone": "traffic",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.60639,
+     41.1482838
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6647824154,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.606384068531531,
+     41.14829222808531
+    ],
+    "ref_distance": 1.1,
+    "ref_id": "[-8.606384068531531, 41.14829222808531]",
+    "tags.camera:mount": "pole",
+    "tags.camera:type": "dome",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags.surveillance:zone": "traffic",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6326306,
+     41.1527618
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274146099,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.632641373234543,
+     41.1527764444341
+    ],
+    "ref_distance": 1.9,
+    "ref_id": "[-8.632641373234543, 41.1527764444341]",
+    "ref_unused_tags.surveillance": "public",
+    "tags.camera:mount": "pople",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "outdoor",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6247317,
+     41.1598928
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274125895,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.624745581536247,
+     41.15990642671991
+    ],
+    "ref_distance": 1.9,
+    "ref_id": "[-8.624745581536247, 41.15990642671991]",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6259935,
+     41.1523922
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274146100,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.62602239872493,
+     41.1523936004662
+    ],
+    "ref_distance": 2.4,
+    "ref_id": "[-8.62602239872493, 41.1523936004662]",
+    "ref_unused_tags.surveillance": "public",
+    "tags.camera:mount": "pole",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "outdoor",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6135143,
+     41.174601
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4297946789,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.61349127544652,
+     41.17461496334543
+    ],
+    "ref_distance": 2.5,
+    "ref_id": "[-8.61349127544652, 41.17461496334543]",
+    "tags.camera:mount": "pole",
+    "tags.camera:type": "dome",
+    "tags.man_made": "surveillance",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto",
+    "tags_new.surveillance": "public"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6208317,
+     41.1565105
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274125894,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.620853912860618,
+     41.15649481081136
+    ],
+    "ref_distance": 2.6,
+    "ref_id": "[-8.620853912860618, 41.15649481081136]",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6057358,
+     41.1497352
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3891282379,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.605767935329807,
+     41.149734825006924
+    ],
+    "ref_distance": 2.7,
+    "ref_id": "[-8.605767935329807, 41.149734825006924]",
+    "tags.camera:mount": "pole",
+    "tags.camera:type": "dome",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6067699,
+     41.146949
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6647824423,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.606795975288911,
+     41.146969122131964
+    ],
+    "ref_distance": 3.1,
+    "ref_id": "[-8.606795975288911, 41.146969122131964]",
+    "tags.camera:mount": "pole",
+    "tags.camera:type": "dome",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags.surveillance:zone": "traffic",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6293461,
+     41.1568514
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274125897,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.629310036333312,
+     41.156863717400945
+    ],
+    "ref_distance": 3.3,
+    "ref_id": "[-8.629310036333312, 41.156863717400945]",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6289913,
+     41.1590059
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274125896,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.628984107596029,
+     41.15903703745107
+    ],
+    "ref_distance": 3.5,
+    "ref_id": "[-8.628984107596029, 41.15903703745107]",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6329377,
+     41.1469194
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7274146101,
+    "osm_type": "node",
+    "ref_coords": [
+     -8.632905931248754,
+     41.14689158431886
+    ],
+    "ref_distance": 4.1,
+    "ref_id": "[-8.632905931248754, 41.14689158431886]",
+    "ref_unused_tags.surveillance": "public",
+    "tags.camera:mount": "pole",
+    "tags.man_made": "surveillance",
+    "tags.surveillance": "outdoor",
+    "tags.surveillance:type": "camera",
+    "tags_new.operator": "Câmara Municipal do Porto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.58097263168521,
+     41.16304306730047
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -13,
+    "osm_type": "node",
+    "ref_id": "[-8.58097263168521, 41.16304306730047]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.581158927026589,
+     41.14648723026661
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -14,
+    "osm_type": "node",
+    "ref_id": "[-8.581158927026589, 41.14648723026661]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.583042901378436,
+     41.154763383046735
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "[-8.583042901378436, 41.154763383046735]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.583466851420745,
+     41.16329813136262
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -16,
+    "osm_type": "node",
+    "ref_id": "[-8.583466851420745, 41.16329813136262]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.583696165610524,
+     41.16306495086547
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "[-8.583696165610524, 41.16306495086547]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.584784446458029,
+     41.1628212491339
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "[-8.584784446458029, 41.1628212491339]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.585155741880136,
+     41.16260656662993
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -19,
+    "osm_type": "node",
+    "ref_id": "[-8.585155741880136, 41.16260656662993]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.58525087212728,
+     41.162701328272234
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -20,
+    "osm_type": "node",
+    "ref_id": "[-8.58525087212728, 41.162701328272234]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.58546916966351,
+     41.16177269424425
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -21,
+    "osm_type": "node",
+    "ref_id": "[-8.58546916966351, 41.16177269424425]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.586513722147794,
+     41.16295857039292
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -22,
+    "osm_type": "node",
+    "ref_id": "[-8.586513722147794, 41.16295857039292]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.587944991346152,
+     41.163421047966295
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -23,
+    "osm_type": "node",
+    "ref_id": "[-8.587944991346152, 41.163421047966295]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.588193249430333,
+     41.16746257205678
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -24,
+    "osm_type": "node",
+    "ref_id": "[-8.588193249430333, 41.16746257205678]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.589130441497257,
+     41.16389163135207
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -25,
+    "osm_type": "node",
+    "ref_id": "[-8.589130441497257, 41.16389163135207]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.589234262863481,
+     41.16418135442977
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "[-8.589234262863481, 41.16418135442977]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.589326528847312,
+     41.16420889937276
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -27,
+    "osm_type": "node",
+    "ref_id": "[-8.589326528847312, 41.16420889937276]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.589337040007399,
+     41.16390748780344
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -28,
+    "osm_type": "node",
+    "ref_id": "[-8.589337040007399, 41.16390748780344]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.589648954463199,
+     41.1638812340087
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -29,
+    "osm_type": "node",
+    "ref_id": "[-8.589648954463199, 41.1638812340087]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.590582494424805,
+     41.1628243502994
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -30,
+    "osm_type": "node",
+    "ref_id": "[-8.590582494424805, 41.1628243502994]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.591051411953726,
+     41.15549192337096
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -31,
+    "osm_type": "node",
+    "ref_id": "[-8.591051411953726, 41.15549192337096]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.59185887759334,
+     41.160972918577066
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -32,
+    "osm_type": "node",
+    "ref_id": "[-8.59185887759334, 41.160972918577066]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.592511866552222,
+     41.155415807443184
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -33,
+    "osm_type": "node",
+    "ref_id": "[-8.592511866552222, 41.155415807443184]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.593218173852149,
+     41.155225962040724
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -34,
+    "osm_type": "node",
+    "ref_id": "[-8.593218173852149, 41.155225962040724]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.59376231739137,
+     41.15528453030035
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -35,
+    "osm_type": "node",
+    "ref_id": "[-8.59376231739137, 41.15528453030035]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.5941060627219,
+     41.16700042679859
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -36,
+    "osm_type": "node",
+    "ref_id": "[-8.5941060627219, 41.16700042679859]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.594151752201427,
+     41.15091126886201
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -37,
+    "osm_type": "node",
+    "ref_id": "[-8.594151752201427, 41.15091126886201]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.595044061425204,
+     41.15579278048782
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -38,
+    "osm_type": "node",
+    "ref_id": "[-8.595044061425204, 41.15579278048782]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.595201137364691,
+     41.17198608689175
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -39,
+    "osm_type": "node",
+    "ref_id": "[-8.595201137364691, 41.17198608689175]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.595364868876285,
+     41.146080930358075
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -40,
+    "osm_type": "node",
+    "ref_id": "[-8.595364868876285, 41.146080930358075]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.596947190258682,
+     41.15238669695129
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -41,
+    "osm_type": "node",
+    "ref_id": "[-8.596947190258682, 41.15238669695129]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.597099753166976,
+     41.18238091930057
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -42,
+    "osm_type": "node",
+    "ref_id": "[-8.597099753166976, 41.18238091930057]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.5983276838398,
+     41.14830504055724
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -43,
+    "osm_type": "node",
+    "ref_id": "[-8.5983276838398, 41.14830504055724]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.598689323045887,
+     41.16556782567136
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -44,
+    "osm_type": "node",
+    "ref_id": "[-8.598689323045887, 41.16556782567136]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.600070252218044,
+     41.151075248152246
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -45,
+    "osm_type": "node",
+    "ref_id": "[-8.600070252218044, 41.151075248152246]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.60182272724752,
+     41.14566449445471
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -46,
+    "osm_type": "node",
+    "ref_id": "[-8.60182272724752, 41.14566449445471]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.602118280356684,
+     41.143144654866106
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -47,
+    "osm_type": "node",
+    "ref_id": "[-8.602118280356684, 41.143144654866106]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.603135518689403,
+     41.154522084466734
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -48,
+    "osm_type": "node",
+    "ref_id": "[-8.603135518689403, 41.154522084466734]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.60377397522719,
+     41.14637910372202
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -49,
+    "osm_type": "node",
+    "ref_id": "[-8.60377397522719, 41.14637910372202]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.604220441076679,
+     41.161901758346175
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -50,
+    "osm_type": "node",
+    "ref_id": "[-8.604220441076679, 41.161901758346175]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.604828793333743,
+     41.17127032967376
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -51,
+    "osm_type": "node",
+    "ref_id": "[-8.604828793333743, 41.17127032967376]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.604899991200124,
+     41.143937052246244
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -52,
+    "osm_type": "node",
+    "ref_id": "[-8.604899991200124, 41.143937052246244]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.60520887836386,
+     41.18022278397849
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -53,
+    "osm_type": "node",
+    "ref_id": "[-8.60520887836386, 41.18022278397849]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.605712939037295,
+     41.17367399968158
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -54,
+    "osm_type": "node",
+    "ref_id": "[-8.605712939037295, 41.17367399968158]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.606226798030072,
+     41.15348636334386
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -55,
+    "osm_type": "node",
+    "ref_id": "[-8.606226798030072, 41.15348636334386]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.606514283059754,
+     41.166454488309654
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -56,
+    "osm_type": "node",
+    "ref_id": "[-8.606514283059754, 41.166454488309654]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.607360383535067,
+     41.15098076805281
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -57,
+    "osm_type": "node",
+    "ref_id": "[-8.607360383535067, 41.15098076805281]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.609216728079767,
+     41.15740159021099
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -58,
+    "osm_type": "node",
+    "ref_id": "[-8.609216728079767, 41.15740159021099]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.60953558464349,
+     41.16152970417035
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -59,
+    "osm_type": "node",
+    "ref_id": "[-8.60953558464349, 41.16152970417035]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.609708852862815,
+     41.14079057448253
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -60,
+    "osm_type": "node",
+    "ref_id": "[-8.609708852862815, 41.14079057448253]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.610038328121737,
+     41.151895399764456
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -61,
+    "osm_type": "node",
+    "ref_id": "[-8.610038328121737, 41.151895399764456]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.610238373321785,
+     41.14077967914265
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -62,
+    "osm_type": "node",
+    "ref_id": "[-8.610238373321785, 41.14077967914265]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.610261656011806,
+     41.15067687795267
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -63,
+    "osm_type": "node",
+    "ref_id": "[-8.610261656011806, 41.15067687795267]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61087636540065,
+     41.14984963066531
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -64,
+    "osm_type": "node",
+    "ref_id": "[-8.61087636540065, 41.14984963066531]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.611013586561077,
+     41.1451674687134
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -65,
+    "osm_type": "node",
+    "ref_id": "[-8.611013586561077, 41.1451674687134]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61101374296475,
+     41.143411412545106
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -66,
+    "osm_type": "node",
+    "ref_id": "[-8.61101374296475, 41.143411412545106]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.611064180496658,
+     41.16275295772122
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -67,
+    "osm_type": "node",
+    "ref_id": "[-8.611064180496658, 41.16275295772122]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.611229172503549,
+     41.1460069637429
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -68,
+    "osm_type": "node",
+    "ref_id": "[-8.611229172503549, 41.1460069637429]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.611839972887621,
+     41.14488683080956
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -69,
+    "osm_type": "node",
+    "ref_id": "[-8.611839972887621, 41.14488683080956]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.612120417360817,
+     41.148006071487515
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -70,
+    "osm_type": "node",
+    "ref_id": "[-8.612120417360817, 41.148006071487515]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.612158208715924,
+     41.14539834375198
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -71,
+    "osm_type": "node",
+    "ref_id": "[-8.612158208715924, 41.14539834375198]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.612233950905084,
+     41.14532235227915
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -72,
+    "osm_type": "node",
+    "ref_id": "[-8.612233950905084, 41.14532235227915]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.612629834229168,
+     41.171845973988624
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -73,
+    "osm_type": "node",
+    "ref_id": "[-8.612629834229168, 41.171845973988624]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.612943207687383,
+     41.141546009946396
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -74,
+    "osm_type": "node",
+    "ref_id": "[-8.612943207687383, 41.141546009946396]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6133087798502,
+     41.14534049272346
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -75,
+    "osm_type": "node",
+    "ref_id": "[-8.6133087798502, 41.14534049272346]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.613330616502857,
+     41.14130996632016
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -76,
+    "osm_type": "node",
+    "ref_id": "[-8.613330616502857, 41.14130996632016]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61338595345443,
+     41.15422832655342
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -77,
+    "osm_type": "node",
+    "ref_id": "[-8.61338595345443, 41.15422832655342]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61347981032792,
+     41.14567092721258
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -78,
+    "osm_type": "node",
+    "ref_id": "[-8.61347981032792, 41.14567092721258]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614001303056899,
+     41.14619465274958
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -79,
+    "osm_type": "node",
+    "ref_id": "[-8.614001303056899, 41.14619465274958]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614172148623185,
+     41.14284788872793
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -80,
+    "osm_type": "node",
+    "ref_id": "[-8.614172148623185, 41.14284788872793]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614206550620759,
+     41.14442190102105
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -81,
+    "osm_type": "node",
+    "ref_id": "[-8.614206550620759, 41.14442190102105]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614319469978359,
+     41.148408880342416
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -82,
+    "osm_type": "node",
+    "ref_id": "[-8.614319469978359, 41.148408880342416]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61450576870565,
+     41.14834853960151
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -83,
+    "osm_type": "node",
+    "ref_id": "[-8.61450576870565, 41.14834853960151]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614595650194884,
+     41.14183181551436
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -84,
+    "osm_type": "node",
+    "ref_id": "[-8.614595650194884, 41.14183181551436]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614652477189553,
+     41.14270352797685
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -85,
+    "osm_type": "node",
+    "ref_id": "[-8.614652477189553, 41.14270352797685]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614726833068236,
+     41.14090030380128
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -86,
+    "osm_type": "node",
+    "ref_id": "[-8.614726833068236, 41.14090030380128]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.614826595031985,
+     41.14291780668657
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -87,
+    "osm_type": "node",
+    "ref_id": "[-8.614826595031985, 41.14291780668657]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.615552541085334,
+     41.145424902514485
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -88,
+    "osm_type": "node",
+    "ref_id": "[-8.615552541085334, 41.145424902514485]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.615878094458044,
+     41.14732620440207
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -89,
+    "osm_type": "node",
+    "ref_id": "[-8.615878094458044, 41.14732620440207]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61601081108992,
+     41.14044344780297
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -90,
+    "osm_type": "node",
+    "ref_id": "[-8.61601081108992, 41.14044344780297]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.616211357014198,
+     41.147096721061246
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -91,
+    "osm_type": "node",
+    "ref_id": "[-8.616211357014198, 41.147096721061246]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.616267507096007,
+     41.148806047128296
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -92,
+    "osm_type": "node",
+    "ref_id": "[-8.616267507096007, 41.148806047128296]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.616774621972723,
+     41.14829373540727
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -93,
+    "osm_type": "node",
+    "ref_id": "[-8.616774621972723, 41.14829373540727]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.617684802030025,
+     41.151608710201764
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -94,
+    "osm_type": "node",
+    "ref_id": "[-8.617684802030025, 41.151608710201764]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.61820883969469,
+     41.14810424000024
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -95,
+    "osm_type": "node",
+    "ref_id": "[-8.61820883969469, 41.14810424000024]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.620059615467971,
+     41.14766876713541
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -96,
+    "osm_type": "node",
+    "ref_id": "[-8.620059615467971, 41.14766876713541]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.620339645063925,
+     41.147309388371156
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -97,
+    "osm_type": "node",
+    "ref_id": "[-8.620339645063925, 41.147309388371156]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.620415474219449,
+     41.14741829866157
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -98,
+    "osm_type": "node",
+    "ref_id": "[-8.620415474219449, 41.14741829866157]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.620594056018684,
+     41.16383963148487
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -99,
+    "osm_type": "node",
+    "ref_id": "[-8.620594056018684, 41.16383963148487]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.622669565439137,
+     41.17322773385153
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -100,
+    "osm_type": "node",
+    "ref_id": "[-8.622669565439137, 41.17322773385153]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.625112566403326,
+     41.167013515506525
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -101,
+    "osm_type": "node",
+    "ref_id": "[-8.625112566403326, 41.167013515506525]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.62903304782684,
+     41.178030631904505
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -102,
+    "osm_type": "node",
+    "ref_id": "[-8.62903304782684, 41.178030631904505]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.632018849728995,
+     41.169432698373576
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -103,
+    "osm_type": "node",
+    "ref_id": "[-8.632018849728995, 41.169432698373576]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.632681101958132,
+     41.17200766880779
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -104,
+    "osm_type": "node",
+    "ref_id": "[-8.632681101958132, 41.17200766880779]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.63373866015207,
+     41.1634979874284
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -105,
+    "osm_type": "node",
+    "ref_id": "[-8.63373866015207, 41.1634979874284]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.635655079624597,
+     41.1590038766785
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -106,
+    "osm_type": "node",
+    "ref_id": "[-8.635655079624597, 41.1590038766785]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.639554287809716,
+     41.16490255687097
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -107,
+    "osm_type": "node",
+    "ref_id": "[-8.639554287809716, 41.16490255687097]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.641416627361243,
+     41.151017607953186
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -108,
+    "osm_type": "node",
+    "ref_id": "[-8.641416627361243, 41.151017607953186]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.642146997627098,
+     41.167152468030366
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -109,
+    "osm_type": "node",
+    "ref_id": "[-8.642146997627098, 41.167152468030366]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.642676383906096,
+     41.16525222031423
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -110,
+    "osm_type": "node",
+    "ref_id": "[-8.642676383906096, 41.16525222031423]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.645559086169971,
+     41.15607479350844
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -111,
+    "osm_type": "node",
+    "ref_id": "[-8.645559086169971, 41.15607479350844]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.649952573943796,
+     41.166437237861786
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -112,
+    "osm_type": "node",
+    "ref_id": "[-8.649952573943796, 41.166437237861786]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.649993513643105,
+     41.161398517176515
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -113,
+    "osm_type": "node",
+    "ref_id": "[-8.649993513643105, 41.161398517176515]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.65392341600251,
+     41.14845904886235
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -114,
+    "osm_type": "node",
+    "ref_id": "[-8.65392341600251, 41.14845904886235]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.655077330666883,
+     41.16725259846336
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -115,
+    "osm_type": "node",
+    "ref_id": "[-8.655077330666883, 41.16725259846336]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.65514602244268,
+     41.16229883087304
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -116,
+    "osm_type": "node",
+    "ref_id": "[-8.65514602244268, 41.16229883087304]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.662368650741696,
+     41.15035896971819
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -117,
+    "osm_type": "node",
+    "ref_id": "[-8.662368650741696, 41.15035896971819]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.66285703465658,
+     41.16367569031704
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -118,
+    "osm_type": "node",
+    "ref_id": "[-8.66285703465658, 41.16367569031704]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.66515718219433,
+     41.15828498727415
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -119,
+    "osm_type": "node",
+    "ref_id": "[-8.66515718219433, 41.15828498727415]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6708318311061,
+     41.16822149166584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -120,
+    "osm_type": "node",
+    "ref_id": "[-8.6708318311061, 41.16822149166584]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.67096800289819,
+     41.17060081572162
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -121,
+    "osm_type": "node",
+    "ref_id": "[-8.67096800289819, 41.17060081572162]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.671427562317279,
+     41.17384379471405
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -122,
+    "osm_type": "node",
+    "ref_id": "[-8.671427562317279, 41.17384379471405]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.671867746224553,
+     41.16495067119026
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -123,
+    "osm_type": "node",
+    "ref_id": "[-8.671867746224553, 41.16495067119026]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.673180291133907,
+     41.15480528598066
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -124,
+    "osm_type": "node",
+    "ref_id": "[-8.673180291133907, 41.15480528598066]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.674103127477418,
+     41.1728195518947
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -125,
+    "osm_type": "node",
+    "ref_id": "[-8.674103127477418, 41.1728195518947]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.674751042644157,
+     41.1480112687521
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -126,
+    "osm_type": "node",
+    "ref_id": "[-8.674751042644157, 41.1480112687521]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.677854738820052,
+     41.16621076924203
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -127,
+    "osm_type": "node",
+    "ref_id": "[-8.677854738820052, 41.16621076924203]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.68077687211233,
+     41.1719926790957
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -128,
+    "osm_type": "node",
+    "ref_id": "[-8.68077687211233, 41.1719926790957]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.683883994652605,
+     41.15930750796747
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -129,
+    "osm_type": "node",
+    "ref_id": "[-8.683883994652605, 41.15930750796747]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.683941289592779,
+     41.173553441444106
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -130,
+    "osm_type": "node",
+    "ref_id": "[-8.683941289592779, 41.173553441444106]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.6848131048859,
+     41.16737079084307
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -131,
+    "osm_type": "node",
+    "ref_id": "[-8.6848131048859, 41.16737079084307]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.68703989143092,
+     41.167856072143415
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -132,
+    "osm_type": "node",
+    "ref_id": "[-8.68703989143092, 41.167856072143415]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.68814292261883,
+     41.17333604281209
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -133,
+    "osm_type": "node",
+    "ref_id": "[-8.68814292261883, 41.17333604281209]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -8.688228992114263,
+     41.16708411242516
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -134,
+    "osm_type": "node",
+    "ref_id": "[-8.688228992114263, 41.16708411242516]",
+    "tags.man_made": "surveillance",
+    "tags.operator": "Câmara Municipal do Porto",
+    "tags.surveillance": "public",
+    "tags.surveillance:type": "camera"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}
