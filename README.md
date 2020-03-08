@@ -16,5 +16,8 @@ After testing the importing process, you should follow the [import guidelines](h
 * Link to a preview map. Go to geojson.io, open your json file and press "Share".
 * A date for the final import, if there are no major objections. Give it a week or two, depending on an import size.
 
-## License
+## Code License
 WTFPL. Do what the fuck you want! \o/
+
+## Data License
+This is rather unclear. Input gladly appreciated, the author himself does not feel called into legal debate (hence the 'anti-legalistic' code license. 
