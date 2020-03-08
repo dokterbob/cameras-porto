@@ -16,6 +16,9 @@ After testing the importing process, you should follow the [import guidelines](h
 * Link to a preview map. Go to geojson.io, open your json file and press "Share".
 * A date for the final import, if there are no major objections. Give it a week or two, depending on an import size.
 
+## Source
+Essentially, we're using the GeoJSON version of this dataset: https://mipweb.cm-porto.pt/MuniSIG/MuniSIGViewer/Index.html?configBase=https%3A%2F%2Fmipweb.cm-porto.pt%2FMuniSIG%2FREST%2Fsites%2FUrbanismo%2Fviewers%2FMipweb_-_Mobile%2Fvirtualdirectory%2FResources%2FConfig%2FDefault&layerTheme=1&scale=36111.909643&basemap=aWdfY2FydG9ncmFmaWFfdG90&center=-961296.5104906509%2C5035897.13304301&layers=0kWSNk1CXegz15BnDr2cXyeG3uffU40rAoxN0XkIKa1YUcwG21GugT3w6tVJ027sXX1OTEVz1TfrIx0lBkuh3d%2BblN1KVO201BcLnH283XLY3SpBUq
+
 ## Code License
 WTFPL. Do what the fuck you want! \o/
 
