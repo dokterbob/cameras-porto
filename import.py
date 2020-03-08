@@ -26,6 +26,7 @@ class Profile:
             'surveillance': 'public',
             'surveillance:type': 'camera',
             'operator': 'Câmara Municipal do Porto',
+            'surveillance:zone': 'traffic'
         }
 
         # Parse GeoJSON
